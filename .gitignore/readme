@@ -1,0 +1,3 @@
+In this project , I wrote a script for detecting objects live from your webcam with respect to the first frame.
+What I did in this was , with the help of open cv2 i cascaded the video from webcam and then I blurred all the  frames for better processing 
+and then matchd all the frames , if frames differ then i got the frames and put a rectangle according to that
